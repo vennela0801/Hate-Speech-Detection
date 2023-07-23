@@ -6,6 +6,7 @@ This repository contains the code and resources for a Hate Speech Detection proj
 The model is built using natural language processing (NLP) techniques and machine learning algorithms. The dataset used for training and evaluation has been collected from various sources, and it has been manually labeled by human annotators.
 
  **Features**
+ 
  Preprocessing: Text data preprocessing is performed to clean and prepare the data for training the model.
  Feature Extraction: Different techniques such as word embeddings, TF-IDF, and others are utilized to convert text into numerical features.
  Machine Learning Model: We employ a machine learning algorithm (e.g., SVM, Random Forest, or deep learning models) to classify text as hate speech or non-hate speech.
