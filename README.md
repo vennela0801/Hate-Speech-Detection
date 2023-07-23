@@ -31,11 +31,11 @@ Evaluate the Model: Evaluate the trained model on a test dataset and view the pe
 
 Contributions are welcome! If you want to contribute to this project, please follow these steps:
 
-    Fork the repository.
-    Create a new branch for your feature/bug fix.
-    Make your changes and commit them with descriptive commit messages.
-    Push your changes to your fork.
-    Submit a pull request, explaining the changes you've made.
+Fork the repository.
+Create a new branch for your feature/bug fix.
+Make your changes and commit them with descriptive commit messages.
+Push your changes to your fork.
+Submit a pull request, explaining the changes you've made.
 
 **License**
 
