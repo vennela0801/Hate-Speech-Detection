@@ -14,22 +14,16 @@ The model is built using natural language processing (NLP) techniques and machin
 
 **Usage**
 
-    Prepare your dataset: Ensure you have a labeled dataset in CSV format, where one column contains the text and another column contains the corresponding labels (0 for non-hate speech, 1 for hate speech).
+    
+Prepare your dataset: Ensure you have a labeled dataset in CSV format, where one column contains the text and another column contains the corresponding labels (0 for non-hate speech, 1 for hate speech).
 
-    Data Preprocessing: Run the data preprocessing script to clean and preprocess the text data:
+Data Preprocessing: Run the data preprocessing script to clean and preprocess the text data:
 
+Feature Extraction: Feature Extraction is a critical step that involves converting raw text data into numerical features that can be used as input to machine learning algorithms .
 
+Train the Model: Train the hate speech detection model using the features obtained from the previous step:
 
-
-    Feature Extraction: Feature Extraction is a critical step that involves converting raw text data into numerical features that can be used as input to machine learning algorithms .
-
-    Train the Model: Train the hate speech detection model using the features obtained from the previous step:
-
-
-
-
-    Evaluate the Model: Evaluate the trained model on a test dataset and view the performance metrics:
-
+Evaluate the Model: Evaluate the trained model on a test dataset and view the performance metrics:
 
 
 
