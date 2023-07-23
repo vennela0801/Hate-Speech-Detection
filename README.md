@@ -7,10 +7,10 @@ The model is built using natural language processing (NLP) techniques and machin
  
 **Features**
 
-    Preprocessing: Text data preprocessing is performed to clean and prepare the data for training the model.
+    <sub>Preprocessing: Text data preprocessing is performed to clean and prepare the data for training the model.
     Feature Extraction: Different techniques such as word embeddings, TF-IDF, and others are utilized to convert text into numerical features.
     Machine Learning Model: We employ a machine learning algorithm (e.g., SVM, Random Forest, or deep learning models) to classify text as hate speech or non-hate speech.
-    Evaluation Metrics: The model is evaluated using relevant metrics such as accuracy, precision, recall, F1-score, and confusion matrix.
+    Evaluation Metrics: The model is evaluated using relevant metrics such as accuracy, precision, recall, F1-score, and confusion matrix.<sub>
 
 
 **Usage**
