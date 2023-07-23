@@ -4,11 +4,12 @@
 This repository contains the code and resources for a Hate Speech Detection project. The goal of this project is to build a machine learning model that can classify text into two categories: hate speech and non-hate speech. Hate speech is any speech, conduct, writing, or expression that offends, threatens, or insults individuals or groups based on attributes such as race, religion, ethnic origin, sexual orientation, disability, or gender.
 
 The model is built using natural language processing (NLP) techniques and machine learning algorithms. The dataset used for training and evaluation has been collected from various sources, and it has been manually labeled by human annotators.
- 
-**Features**
 
-    
-
+ **Features**
+ Preprocessing: Text data preprocessing is performed to clean and prepare the data for training the model.
+ Feature Extraction: Different techniques such as word embeddings, TF-IDF, and others are utilized to convert text into numerical features.
+ Machine Learning Model: We employ a machine learning algorithm (e.g., SVM, Random Forest, or deep learning models) to classify text as hate speech or non-hate speech.
+ Evaluation Metrics: The model is evaluated using relevant metrics such as accuracy, precision, recall, F1-score, and confusion matrix.
 
 **Usage**
 
