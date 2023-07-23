@@ -37,9 +37,7 @@ Make your changes and commit them with descriptive commit messages.
 Push your changes to your fork.
 Submit a pull request, explaining the changes you've made.
 
-**License**
 
-This project is licensed under the MIT License - see the LICENSE file for details.
 **Acknowledgments**
 
 We would like to thank the open-source community and all the contributors for their valuable feedback and contributions to this project.
