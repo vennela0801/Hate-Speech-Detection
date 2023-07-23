@@ -12,15 +12,6 @@ The model is built using natural language processing (NLP) techniques and machin
     Machine Learning Model: We employ a machine learning algorithm (e.g., SVM, Random Forest, or deep learning models) to classify text as hate speech or non-hate speech.
     Evaluation Metrics: The model is evaluated using relevant metrics such as accuracy, precision, recall, F1-score, and confusion matrix.
 
-**Installation**
-
-    Clone the repository to your local machine:
-
-bash
-
-git clone [https://github.com/vennela0801/Hate-Speech-Detection.git]
-cd Hate-Speech-Detection
-
 
 **Usage**
 
